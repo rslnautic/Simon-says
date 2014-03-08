@@ -1,0 +1,25 @@
+{
+  "version": "0.4",
+  "name": "Simon HD",
+  "description": "Simon says en HD",
+  "launch_path": "/index.html",
+  "icons": {
+    
+    "48": "/img/icons/48X48.png",
+    "128": "/img/icons/128X128.png"
+  },
+  "developer": {
+    "name": "Ramón Serrano López",
+    "url": "https://github.com/rslnautic"
+  },
+  "installs_allowed_from": ["*"],
+  "locales": {
+    "es": {
+      "description": "Simon says en HD",
+      "developer": {
+        "url": "https://github.com/rslnautic"
+      }
+    }
+  },
+  "default_locale": "es"
+}

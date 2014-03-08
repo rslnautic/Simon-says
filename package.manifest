@@ -1,0 +1,9 @@
+{
+    "name": "Simon HD",
+    "package_path" : "http://app.zip",
+    "version": "0.3",
+    "developer": {
+        "name": "Ramon Serrano",
+        "url": "https://github.com/rslnautic"
+    }
+}

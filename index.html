@@ -1,0 +1,95 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>simon says</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- build:css(.tmp) styles/main.css -->
+    <link rel="stylesheet" href="styles/main.css">
+    <!-- endbuild -->
+    <!-- build:js scripts/vendor/modernizr.js -->
+    <script src="bower_components/modernizr/modernizr.js"></script>
+    <!-- endbuild -->
+    <script src="scripts/howler.js"></script>
+</head>
+<body>
+    <!--[if lt IE 10]>
+           <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+           <![endif]-->
+    <!--<audio src="http://www.radiosparx.biz/rsc/module/jplay/stream.cfm/610476/011fd9f64acc418dec7fb7862b15982d001/610476.mp3" autoplay loop></audio>-->
+
+    <!-- /////////////////////////////////////////// HERE STARTS THE WEB STRUCTURE /////////////////////////////////////////////// --->
+    <!-- GAME HOME PAGE --->
+    <div id="intro" class="active">
+        <ul>
+            <li>
+                <h1>Simon says</h1>
+            </li>
+            <li>
+                <div id="start-button">START</div>
+            </li>
+        </ul>
+    </div>
+
+    <!-- GAME SCREEN --->
+    <div class="panel">
+        <div id="blue" class="button"></div>
+        <div id="green" class="button"></div>
+        <div id="yellow" class="button"></div>
+        <div id="orange" class="button"></div>
+        <div id="red" class="button"></div>
+    </div>
+
+    <!-- ANIMATED SCORE PANEL ---> 
+    <div id="scorePanel">
+        <span>Score:</span>
+        <span id="Score">0</span>
+    </div>
+
+    <!-- END GAME SCREEN --->
+    <div id="endScreen" class="">
+        <ul>
+            <li>
+                <h2>GREAT WORK!</h2>
+            </li>
+            <li>
+                <p>Score: <span id="finalScore">0</span></p>
+                <p>Max Score: <span id="finalMaxScore">0</span></p>
+                </li>
+            <li>
+                <div id="end-button">RESTART</div>
+            </li>
+        </ul>
+    </div>
+
+    <!-- /////////////////////////////////////////// HERE END THE WEB STRUCTURE /////////////////////////////////////////////// --->
+
+    <!-- build:js scripts/vendor.js -->
+    <!-- bower:js -->
+    <script src="bower_components/jquery/jquery.js"></script>
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.
+         <script>
+         (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+           function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+         e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+         e.src='//www.google-analytics.com/analytics.js';
+         r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+         ga('create','UA-XXXXX-X');ga('send','pageview');
+         </script> -->
+
+    <!-- build:js scripts/main.js -->
+    <script data-main="scripts/main" src="bower_components/requirejs/require.js"></script>
+    <!-- endbuild -->
+</body>
+</html>

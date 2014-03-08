@@ -1,0 +1,121 @@
+Manifest-Version: 1.0
+
+Name: C5.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kpOEhCD8TAPHBwFAcPM2hA==
+SHA1-Digest: 8hhvvjq/huCF1YgboHv35PRnfMM=
+
+Name: D5.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jt9mFhcxDfrICfGR42ff5A==
+SHA1-Digest: uWBLLQLe+yrY/gM9r0J1NAvbYcI=
+
+Name: E5.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5NaeMNLVzIBArz2lQkLONA==
+SHA1-Digest: t4OuoR1Fe8LYvopiOtnt7X2wR9w=
+
+Name: F5.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SC+09OfjV22JBCeMAg6WCQ==
+SHA1-Digest: qo92xilnhOn1+RTDPOVbomfXvuA=
+
+Name: favicon.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RKo4apzljnQASxm+dmGeoA==
+SHA1-Digest: /9yG0q9WkcqWh3Mb9ttjSpYL4Z4=
+
+Name: G5.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JBoscWicCwp7vgZgjpj5lg==
+SHA1-Digest: t6Nw/FMOKvN8cr12Jf523i8rs2U=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mTAgYtLm923gfGz7uREDZQ==
+SHA1-Digest: D1hzz9zCN5CVOEU8wfOavVQyT4E=
+
+Name: manifest.appcache
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o2lfyTvKFQ3oaYQkkF0SsA==
+SHA1-Digest: 7PGxP3qX3h7pohEqJIbe2BxZnYI=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sDUQsQOzIMPq3J4ZTecgcw==
+SHA1-Digest: OnCbpMfEphyLkK5tKtuok9hX3Kg=
+
+Name: package.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dOhSsFlRj5jS5vsD/oz60g==
+SHA1-Digest: wSYbWCohmTNfo2IB70nPooyeNfU=
+
+Name: bower_components/jquery/jquery-migrate.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mW9Cz6bWYwZXq/k46lcEsw==
+SHA1-Digest: cj6lPqx2y2ZobQ4e1RW/mistinE=
+
+Name: bower_components/jquery/jquery-migrate.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5FuK/QtlUWwXXtI/cYO6sQ==
+SHA1-Digest: YzJTGmOVmSLawzycf+Jj3FJV31Y=
+
+Name: bower_components/jquery/jquery.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kVFXcM6MVd4jswZETY6pmA==
+SHA1-Digest: HYXw80ZOXkmwUidEv3MU4Xasdtk=
+
+Name: bower_components/jquery/jquery.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4OBVkBSyIiRd6ya2rovZQA==
+SHA1-Digest: 4vNgPiNxH2RG8nikEdkFYj1lIB4=
+
+Name: bower_components/modernizr/modernizr.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gbFUnFuTYiXCZpy9P1Tw3Q==
+SHA1-Digest: d4IMHJV7ojc/pztRnxw2zxo7iX4=
+
+Name: bower_components/requirejs/require.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1PSeAaw9AUJm5nOtCa76gA==
+SHA1-Digest: ACeN2lacTlQEfjZOtofdB7pP1CM=
+
+Name: img/icons/128X128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BgVQYvYYyIvf3MMuahopOw==
+SHA1-Digest: EBws5EjuqQPk2mog1MNSRmoBpJ8=
+
+Name: img/icons/16x16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eLY4Un3Ub08BlonNRvAgSg==
+SHA1-Digest: lUoY8QZu8DZkGC8toEz7cHYc/NI=
+
+Name: img/icons/48X48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DpFLUbttt8K4nt8YcYbEdg==
+SHA1-Digest: IPRVkfex9ngC6a10inhojNderkQ=
+
+Name: scripts/app.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W/2U3aJSAohhyHBaR9Jt8w==
+SHA1-Digest: Em+m49FvVwcPMg2ib9DMGSCfoU8=
+
+Name: scripts/howler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9BohPkeK08QyjQeAsxE98g==
+SHA1-Digest: Ym5jCh/+mt7P+wLE5WTEvtpY4kM=
+
+Name: scripts/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AyGx7ANQtnN56KoH6y2V6A==
+SHA1-Digest: XklIFgCtkgK4CZMcNS6s1An66yw=
+
+Name: styles/main.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XjrlVYTx+Sv1Qlk0A2daSg==
+SHA1-Digest: CP+tU/OVwslhGZxIXgbfaK5EN74=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QLrfneluiKUfv7yirQbwbA==
+SHA1-Digest: Rd+0cnwySGPuE0jc5FtEW9Jf7mk=
